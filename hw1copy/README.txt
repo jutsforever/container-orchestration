@@ -1,4 +1,4 @@
-Tsolmon Enebish
+Enebish
 Homework zip file includes the following directories and files:
               - "s3 Instance docs" folder 
                  which has all the files that were pushed onto the S3 bucket, 
